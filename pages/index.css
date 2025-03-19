@@ -1,0 +1,19 @@
+@import url(/blocks/header/header.css);
+@import url(/fonts/fonts.css);
+@import url(/blocks/lead/lead.css);
+@import url(/blocks/intro/intro.css);
+@import url(/blocks/photo-grid/photo-grid.css);
+@import url(/blocks/places/places.css);
+@import url(/blocks/cover/cover.css);
+@import url(/blocks/footer/footer.css);
+
+* {
+    font-family: 'Inter', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    background-color: #2A2C2F;
+}
